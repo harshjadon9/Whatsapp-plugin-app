@@ -1,6 +1,7 @@
 # Whatsapp plugin app
-chat without saving the contact 😎
-eazy-pizy
+chat without saving the contacts 😎
+
+easy peasy
 
 
 ## setup
