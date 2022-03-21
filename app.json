@@ -25,7 +25,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#D2F1D6"
       },
-      "package": "com.kiveemusic9.whatsapp"
+      "package": "com.kiveemusic9.wassup"
     },
     "web": {
       "favicon": "./assets/favicon.png"
