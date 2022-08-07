@@ -1,5 +1,5 @@
 <img width="100" src="https://user-images.githubusercontent.com/62889318/183282361-f6ae2d88-5113-46f0-9cfb-1f9359efd9a6.png">
-
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 
 # Whatsapp plugin app
 Whatsapp app to start chating without needing to save contacts. 🚀
